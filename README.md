@@ -1,0 +1,1 @@
+Bu gitni takrorlash uchun
