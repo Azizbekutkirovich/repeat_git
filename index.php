@@ -9,5 +9,5 @@
 	<header>REPEAT-GIT</header>
 	<p>Main branchdan salom!</p>
 	<p>Footer branchdan 2-marta salom!</p>
-</body>
+</body>	
 </html>
