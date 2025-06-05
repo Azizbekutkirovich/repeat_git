@@ -7,6 +7,6 @@
 </head>
 <body>
 	<header>REPEAT-GIT</header>
-	<p>Footer branchdan salom!</p>
+	<p>Main branchdan salom!</p>
 </body>
 </html>
