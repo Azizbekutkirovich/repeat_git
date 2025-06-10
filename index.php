@@ -7,7 +7,10 @@
 </head>
 <body>
 	<?php
-		echo "This is php!";
+		function app() {
+			echo "This is php!";
+		}
+		app();
 	?>
 </body>
 </html>
