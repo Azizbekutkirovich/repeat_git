@@ -8,9 +8,9 @@
 <body>
 	<?php
 		function app() {
-			echo "This is php!";
+			return  "This is php!";
 		}
-		app();
+		echo app();
 	?>
 </body>
 </html>
