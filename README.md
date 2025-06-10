@@ -1,1 +1,1 @@
-Bu gitni takrorlash uchun
+THIS IS GIT
