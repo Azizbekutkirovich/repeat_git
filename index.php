@@ -6,9 +6,8 @@
 	<title>This is testing git</title>
 </head>
 <body>
-	<header>REPEAT-GIT</header>
-	<p>This is test</p>
-	<p>Main branchdan salom!</p>
-	<p>Footer branchdan 2-marta salom!</p>
+	<?php
+		echo "This is php!";
+	?>
 </body>
 </html>
