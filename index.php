@@ -7,8 +7,10 @@
 </head>
 <body>
 	<?php
+		$message = "This is php!";
 		function app() {
-			return  "This is php!";
+			global $message;
+			return $message;
 		}
 		echo app();
 	?>
