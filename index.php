@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php
-		$message = "This is main branch";
+		$message = "Hello world!";
 		function app() {
 			global $message;
 			return $message;
