@@ -6,6 +6,7 @@
 	<title>This is testing git</title>
 </head>
 <body>
+	<h3>This is test!</h3>
 	<?php
 		$message = "Hello world!";
 		function app() {
