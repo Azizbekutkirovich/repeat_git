@@ -12,7 +12,7 @@
 	<h3>This is test4.0!</h3>
 	<p>This is rebase</p>
 	<?php
-		$message = "Hello world!";
+		$message = "This is php!";
 		function app() {
 			global $message;
 			return $message;
